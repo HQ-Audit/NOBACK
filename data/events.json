@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-07-24T20:17:58.396Z",
+  "updatedAt": "2026-07-25T20:09:11.627Z",
   "events": [
-    {
-      "name": "순천만국가정원 챌린지가든런",
-      "date": "2026-07-25",
-      "location": "순천만국가정원 동문",
-      "category": "로드",
-      "distance": "10km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://projectruntrip.com/"
-    },
     {
       "name": "사우나런 in 올림픽공원",
       "date": "2026-07-31",
@@ -135,6 +126,15 @@
       "distance": "22km / 13km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.runnerking.com"
+    },
+    {
+      "name": "백범김구선생 탄생150주년기념 손기정하천마라톤",
+      "date": "2026-08-29",
+      "location": "의정부시 동막교 인라인광장",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://funandrun.co.kr"
     },
     {
       "name": "2026 전마협 증평 무료 마라톤",
