@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T20:09:11.627Z",
+  "updatedAt": "2026-07-26T20:07:00.319Z",
   "events": [
     {
       "name": "사우나런 in 올림픽공원",
@@ -396,6 +396,15 @@
       "distance": "10km / 30K / 20K",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://bbangtrailrun.co.kr"
+    },
+    {
+      "name": "제19회 구로구청장배 안양천 단풍마라톤",
+      "date": "2026-09-13",
+      "location": "구일역 하부 인라인스케이트장",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://cafe.daum.net/guro-run/LvM7/45"
     },
     {
       "name": "달리는 세상 10km 런",
