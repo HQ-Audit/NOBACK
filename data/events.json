@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T20:07:00.319Z",
+  "updatedAt": "2026-07-27T20:19:41.441Z",
   "events": [
     {
       "name": "사우나런 in 올림픽공원",
@@ -335,6 +335,15 @@
       "url": "http://amarunsb.com/"
     },
     {
+      "name": "2026 굿네이버스 레이스",
+      "date": "2026-09-12",
+      "location": "여의도 한강공원 물빛무대 앞",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://goodneighbors001.cafe24.com"
+    },
+    {
       "name": "2026 여수 백리섬섬트레일런",
       "date": "2026-09-12",
       "location": "청심 국제해양청소년수련원",
@@ -344,7 +353,7 @@
       "url": "http://speedtrailrun.kr/"
     },
     {
-      "name": "2026 에너지 히어로 레이스",
+      "name": "히어로 레이스 l 2026 에너지 히어로 레이",
       "date": "2026-09-12",
       "location": "서울월드컵경기장 평화광장",
       "category": "로드",
