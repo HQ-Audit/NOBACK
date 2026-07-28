@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T20:19:41.441Z",
+  "updatedAt": "2026-07-28T20:14:29.386Z",
   "events": [
     {
       "name": "사우나런 in 올림픽공원",
@@ -486,6 +486,15 @@
       "distance": "하프 / 10km / 5km / 7인1팀단체전 / 가족4인단체전",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.ujrun.kr"
+    },
+    {
+      "name": "2026 무한도전 Run in 경주",
+      "date": "2026-09-19",
+      "location": "경주시민운동장",
+      "category": "로드",
+      "distance": "하프 / 10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.coupangplay.com/promotion/2026-Mudorun-Gyeongju/"
     },
     {
       "name": "시포레 RUN & FIT with 디스커버리",
