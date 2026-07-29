@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T20:14:29.386Z",
+  "updatedAt": "2026-07-29T20:10:43.572Z",
   "events": [
     {
       "name": "사우나런 in 올림픽공원",
@@ -335,6 +335,15 @@
       "url": "http://amarunsb.com/"
     },
     {
+      "name": "2026 나이트런 플러스 청주",
+      "date": "2026-09-12",
+      "location": "청주시 무심천체육공원",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://n-runplus.co.kr"
+    },
+    {
       "name": "2026 굿네이버스 레이스",
       "date": "2026-09-12",
       "location": "여의도 한강공원 물빛무대 앞",
@@ -495,6 +504,15 @@
       "distance": "하프 / 10km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.coupangplay.com/promotion/2026-Mudorun-Gyeongju/"
+    },
+    {
+      "name": "2026 여수낭도트레일",
+      "date": "2026-09-19",
+      "location": "여수 화정면낭도출장소앞 주차장",
+      "category": "트레일",
+      "distance": "13km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.mtrailrun.kr/"
     },
     {
       "name": "시포레 RUN & FIT with 디스커버리",
