@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-07-30T20:12:46.090Z",
+  "updatedAt": "2026-07-31T20:17:46.325Z",
   "events": [
-    {
-      "name": "사우나런 in 올림픽공원",
-      "date": "2026-07-31",
-      "location": "올림픽 공원 인근",
-      "category": "로드",
-      "distance": "10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://saunarun.com"
-    },
     {
       "name": "2026 인사이더런 S",
       "date": "2026-08-01",
