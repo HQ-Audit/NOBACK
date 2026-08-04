@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T20:25:03.225Z",
+  "updatedAt": "2026-08-04T20:21:35.770Z",
   "events": [
     {
       "name": "2026 양산 어필(up-hill) 레이스",
@@ -648,6 +648,78 @@
       "distance": "하프 / 10km / 5km / 10Km커플런 / 5Km 가족런",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://gprun.com/"
+    },
+    {
+      "name": "2026 춘천연합마라톤",
+      "date": "2026-10-03",
+      "location": "춘천시 엘리시안 강촌",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.yonma.kr"
+    },
+    {
+      "name": "2026 하반기 JUST RUN10 청주",
+      "date": "2026-10-03",
+      "location": "무심천체육공원",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://runten.co.kr"
+    },
+    {
+      "name": "2026 마스터즈 하프 마라톤",
+      "date": "2026-10-03",
+      "location": "상암 월드컵공원 평화광장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://mastershalf.kr/"
+    },
+    {
+      "name": "2026 완주트레일런",
+      "date": "2026-10-03",
+      "location": "완주군 고산자연휴양림",
+      "category": "트레일",
+      "distance": "36K / 22K / 7K",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://samsamis.com"
+    },
+    {
+      "name": "2026 천사데이기념 동두천천사마라톤",
+      "date": "2026-10-03",
+      "location": "경기도 동두천시 캠프보산",
+      "category": "로드",
+      "distance": "10km / 5km / 걷기 2Km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://hope1004.org"
+    },
+    {
+      "name": "제25회 김제새만금 지평선 전국마라톤",
+      "date": "2026-10-03",
+      "location": "김제시민운동장 일원",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://gimjesm.co.kr"
+    },
+    {
+      "name": "제 2회 아산이순신 트레일",
+      "date": "2026-10-03",
+      "location": "아산 신정호 이순신장군 동상앞",
+      "category": "트레일",
+      "distance": "60km / 46km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://isunshintrail.com"
+    },
+    {
+      "name": "2026 서산 코스모스 황금들녘 마라톤 대회",
+      "date": "2026-10-03",
+      "location": "서산스포츠테마파크",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://mara1080.com/event/fcaa0bc8-1489-47c3-8fec-8e5a5c17284e"
     }
   ]
 }
