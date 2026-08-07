@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T00:39:35.900Z",
+  "updatedAt": "2026-08-07T19:50:57.859Z",
   "events": [
     {
       "name": "2026 양산 어필(up-hill) 레이스",
@@ -497,6 +497,15 @@
       "url": "http://www.ujrun.kr"
     },
     {
+      "name": "2026 사찰런",
+      "date": "2026-09-19",
+      "location": "경산 갓바위 소원길",
+      "category": "로드",
+      "distance": "6.3km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://sachalrun.com/"
+    },
+    {
       "name": "2026 무한도전 Run in 경주",
       "date": "2026-09-19",
       "location": "경주시민운동장",
@@ -810,6 +819,15 @@
       "distance": "하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.hongcheonrun.net/"
+    },
+    {
+      "name": "제23회 강남국제평화마라톤",
+      "date": "2026-10-05",
+      "location": "봉은사로 삼성1동 주민센터 앞",
+      "category": "로드",
+      "distance": "풀 / 하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://peacemarathon.co.kr"
     },
     {
       "name": "제12회 시흥시 전국하프마라톤",
