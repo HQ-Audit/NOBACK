@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T20:24:36.689Z",
+  "updatedAt": "2026-08-07T00:39:35.900Z",
   "events": [
     {
       "name": "2026 양산 어필(up-hill) 레이스",
@@ -758,13 +758,13 @@
       "url": "http://www.nbkorea.com/launchingCalendar/detail.action?listStatus=H&launchingIdx=3117"
     },
     {
-      "name": "2026 S오일 감동의 마라톤",
+      "name": "S-OIL과 함께하는 감동의 마라톤",
       "date": "2026-10-04",
       "location": "상암동 평화의 광장",
       "category": "로드",
       "distance": "하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://xn--439ar1m25cg1c810a7ro.com"
+      "url": "http://감동의마라톤.com"
     },
     {
       "name": "제23회 경남마라톤",
@@ -810,6 +810,42 @@
       "distance": "하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.hongcheonrun.net/"
+    },
+    {
+      "name": "제12회 시흥시 전국하프마라톤",
+      "date": "2026-10-05",
+      "location": "한국공학대학교 제2캠퍼스",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://shmarathon.kr"
+    },
+    {
+      "name": "런센스 2026",
+      "date": "2026-10-05",
+      "location": "상암동 평화의공원 평화광장",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.runsense.co.kr"
+    },
+    {
+      "name": "2026 한경서울마라톤",
+      "date": "2026-10-05",
+      "location": "여의도 문화의공원 일원",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.hk-marathon.com/"
+    },
+    {
+      "name": "2026 서울오픈마라톤",
+      "date": "2026-10-05",
+      "location": "광화문광장(예정)",
+      "category": "로드",
+      "distance": "하프 / 10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://seoulopen.or.kr"
     }
   ]
 }
