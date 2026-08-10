@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T19:30:43.796Z",
+  "updatedAt": "2026-08-10T19:53:25.750Z",
   "events": [
     {
       "name": "2026 INCHEON NIGHT RACE",
@@ -297,6 +297,15 @@
       "distance": "하프 / 10km / 5km / 3km가족런",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://amarunsb.com/"
+    },
+    {
+      "name": "비포 선라이즈 슬로우 마라톤",
+      "date": "2026-09-12",
+      "location": "강릉 경포호수 일대",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://healingtour.gtdc.or.kr"
     },
     {
       "name": "2026 나이트런 플러스 청주",
@@ -846,6 +855,33 @@
       "distance": "하프 / 10km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://seoulopen.or.kr"
+    },
+    {
+      "name": "2026 한글런",
+      "date": "2026-10-09",
+      "location": "세종중앙공원 도시축제마당",
+      "category": "로드",
+      "distance": "5.15km / 10.9km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://hangeulrun.com/"
+    },
+    {
+      "name": "WYD와 함께하는 생명사랑 마라톤/걷기 대회",
+      "date": "2026-10-09",
+      "location": "안성 미리내 성지",
+      "category": "로드",
+      "distance": "10km / 5km / 5km 걷기",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://cafe.naver.com/browna6seu"
+    },
+    {
+      "name": "제26회 홍성마라톤",
+      "date": "2026-10-09",
+      "location": "홍주 종합경기장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km / 10km 단체런(5인)",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://amarunhs.com"
     }
   ]
 }
