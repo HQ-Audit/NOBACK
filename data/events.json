@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T19:54:21.431Z",
+  "updatedAt": "2026-08-14T19:45:18.929Z",
   "events": [
     {
       "name": "2026 INCHEON NIGHT RACE",
@@ -855,6 +855,15 @@
       "distance": "하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://shmarathon.kr"
+    },
+    {
+      "name": "2026 양주 천일홍 가을 페스타 마라톤",
+      "date": "2026-10-05",
+      "location": "양주시 나리공원",
+      "category": "로드",
+      "distance": "10km / 5km / 20km코스",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://yangjurun.kr"
     },
     {
       "name": "런센스 2026",
