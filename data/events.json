@@ -1,60 +1,6 @@
 {
-  "updatedAt": "2026-08-14T19:45:18.929Z",
+  "updatedAt": "2026-08-15T19:19:18.003Z",
   "events": [
-    {
-      "name": "2026 INCHEON NIGHT RACE",
-      "date": "2026-08-15",
-      "location": "인천 영정구 중산동 1946",
-      "category": "로드",
-      "distance": "8.15km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://icnr.kr"
-    },
-    {
-      "name": "2026 안양천 달빛 나이트런",
-      "date": "2026-08-15",
-      "location": "신정교 하부 영롱이 억새구장",
-      "category": "로드",
-      "distance": "10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://moonnightrun.kr/"
-    },
-    {
-      "name": "2026 장수 나이트 트레일",
-      "date": "2026-08-15",
-      "location": "장수종합경기장",
-      "category": "트레일",
-      "distance": "38K-P / 14K",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://rocknrun.kr"
-    },
-    {
-      "name": "영남알프스9봉 트레일 레이스",
-      "date": "2026-08-15",
-      "location": "가늘산장",
-      "category": "트레일",
-      "distance": "9봉 87k / 5봉 45k",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://jyd.creatorlink.net"
-    },
-    {
-      "name": "2026 전마협 광복절 무료 초청 마라톤",
-      "date": "2026-08-15",
-      "location": "대전엑스포다리 밑",
-      "category": "로드",
-      "distance": "10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://mara1080.com/event/9e568eef-64ff-4548-881f-3a420689dece"
-    },
-    {
-      "name": "제38회 지리산화대종주 UTMB",
-      "date": "2026-08-15",
-      "location": "화엄사주차장",
-      "category": "로드",
-      "distance": "48km / 40km / 34km / 21km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20250820150217&csno=20191209143330#baseline"
-    },
     {
       "name": "2026Happy700평창대관령전국하프마라톤",
       "date": "2026-08-16",
@@ -990,15 +936,6 @@
       "distance": "하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.경포마라톤.com"
-    },
-    {
-      "name": "제7회 천안삼거리 흥타령울트라마라톤",
-      "date": "2026-10-10",
-      "location": "천안삼거리공원",
-      "category": "트레일",
-      "distance": "100km / 60km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://www.chultra.kr/"
     },
     {
       "name": "2026 인천로봇랜드 퓨처런",
