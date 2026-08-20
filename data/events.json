@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-08-19T19:21:56.037Z",
+  "updatedAt": "2026-08-20T19:27:51.325Z",
   "events": [
-    {
-      "name": "제2회 한양도성길 트레일런",
-      "date": "2026-08-22",
-      "location": "낙산공원중앙광장(낙산길54)",
-      "category": "트레일",
-      "distance": "20km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://www.mtrailrun.kr/"
-    },
     {
       "name": "2026 교룡산성 백야드",
       "date": "2026-08-23",
@@ -63,6 +54,15 @@
       "distance": "10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://danyangmarathon.kr"
+    },
+    {
+      "name": "포항호미반도트레일런",
+      "date": "2026-08-30",
+      "location": "도구해수욕장",
+      "category": "트레일",
+      "distance": "15km / 10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.mtrailrun.kr/"
     },
     {
       "name": "제3회 한강 서울 하프 마라톤",
@@ -846,6 +846,15 @@
       "distance": "10km / 5km / 5km 걷기",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://cafe.naver.com/browna6seu"
+    },
+    {
+      "name": "2026 고흥우주항공배 마라톤",
+      "date": "2026-10-09",
+      "location": "고흥군 박지성공설운동장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://mara1080.com/event/10fcc153-1bb7-403e-8f57-7571c1c324d5"
     },
     {
       "name": "제26회 홍성마라톤",
