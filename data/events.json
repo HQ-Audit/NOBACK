@@ -1,33 +1,6 @@
 {
-  "updatedAt": "2026-08-22T19:20:08.431Z",
+  "updatedAt": "2026-08-23T19:19:53.786Z",
   "events": [
-    {
-      "name": "2026 교룡산성 백야드",
-      "date": "2026-08-23",
-      "location": "전북 남원시 산곡동 251-2",
-      "category": "로드",
-      "distance": "1회전 7K / 6회전 42K",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://samsamis.com/66"
-    },
-    {
-      "name": "2026대구세계마스터즈 10km대회",
-      "date": "2026-08-23",
-      "location": "대구스타디움 일원",
-      "category": "로드",
-      "distance": "10km / 35세이상일반인 / 3000명",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://www.wmac2026.com"
-    },
-    {
-      "name": "2026 금수산트레일러닝대회",
-      "date": "2026-08-23",
-      "location": "청풍리조트",
-      "category": "트레일",
-      "distance": "22km / 13km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://www.runnerking.com"
-    },
     {
       "name": "백범김구선생 탄생150주년기념 손기정하천마라톤",
       "date": "2026-08-29",
