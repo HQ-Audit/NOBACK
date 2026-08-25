@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T19:26:21.503Z",
+  "updatedAt": "2026-08-25T19:28:40.240Z",
   "events": [
     {
       "name": "백범김구선생 탄생150주년기념 손기정하천마라톤",
@@ -839,6 +839,15 @@
       "url": "http://amarunhs.com"
     },
     {
+      "name": "2026 하트런",
+      "date": "2026-10-10",
+      "location": "올림픽공원 피크닉장",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://heartrun.co.kr/"
+    },
+    {
       "name": "카카오프렌즈런 2026",
       "date": "2026-10-10",
       "location": "탄천 종합운동장",
@@ -1179,6 +1188,78 @@
       "distance": "하프 / 10km / 4km / 1km(휠체어)",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://mara1080.com/event/edaee6e1-0d92-4248-9927-06ed3b0abfd0"
+    },
+    {
+      "name": "2026 서울 펫림픽 & 런 위드 고",
+      "date": "2026-10-24",
+      "location": "서울 월드컵경기장 평화광장",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://runwithgo.com"
+    },
+    {
+      "name": "2026 뉴시스 바다마라톤",
+      "date": "2026-10-24",
+      "location": "영종도 씨사이드파크 하늘구름광",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://marathon.newsis.com"
+    },
+    {
+      "name": "2026 무쓰런",
+      "date": "2026-10-24",
+      "location": "무심천체육공원",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://forms.gle/ga7gKHnRJB7pfLFY6"
+    },
+    {
+      "name": "RUN&MUSIC FESTIVAL in 안동",
+      "date": "2026-10-24",
+      "location": "안동시민운동장",
+      "category": "로드",
+      "distance": "하프 / 10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://runmusicfestival.localvibehub.com/"
+    },
+    {
+      "name": "네이버웍스와 함께하는 SEJONG RUN 26",
+      "date": "2026-10-24",
+      "location": "세종중앙공원 도시축제마당",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://sejongrun26.com"
+    },
+    {
+      "name": "2026 경기옛길 함께RUN",
+      "date": "2026-10-24",
+      "location": "도농체육공원",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://ggcrun.kr/"
+    },
+    {
+      "name": "2026 익산 기부런",
+      "date": "2026-10-24",
+      "location": "익산시종합운동장",
+      "category": "로드",
+      "distance": "10km / 6.4km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://iksangiverun.or.kr"
+    },
+    {
+      "name": "2026 제3회 감성런",
+      "date": "2026-10-24",
+      "location": "신정교하부육상트랙구장",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://xn--439a68tboh.kr/index.asp"
     }
   ]
 }
