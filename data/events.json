@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T19:28:40.240Z",
+  "updatedAt": "2026-08-26T21:38:19.329Z",
   "events": [
     {
       "name": "백범김구선생 탄생150주년기념 손기정하천마라톤",
@@ -72,15 +72,6 @@
       "distance": "하프 / 35세이상일반인 / 5000명",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.wmac2026.com"
-    },
-    {
-      "name": "사우나런 in 뚝섬한강공원",
-      "date": "2026-08-31",
-      "location": "뚝섬한강공원 인근",
-      "category": "로드",
-      "distance": "10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://saunarun.com"
     },
     {
       "name": "2026 이일선마라톤",
@@ -1127,6 +1118,15 @@
       "url": "http://dtrail.co.kr"
     },
     {
+      "name": "2026 하남시 시장기 당정마라톤",
+      "date": "2026-10-18",
+      "location": "하남스타필드 앞 당정뜰",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://runcop.com/event/hanam"
+    },
+    {
       "name": "제19회 중랑구청장배 장미 마라톤",
       "date": "2026-10-18",
       "location": "중화체육공원",
@@ -1260,6 +1260,78 @@
       "distance": "10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://xn--439a68tboh.kr/index.asp"
+    },
+    {
+      "name": "울산 런 페스타 (U-RUN)",
+      "date": "2026-10-25",
+      "location": "울산 문수 국제양궁장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.ulsanrunfesta.com"
+    },
+    {
+      "name": "제14회 정서진아라뱃길 전국마라톤대회",
+      "date": "2026-10-25",
+      "location": "정서진 아라타워",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.jeongseojin.co.kr"
+    },
+    {
+      "name": "2026 부산바다마라톤",
+      "date": "2026-10-25",
+      "location": "부산 벡스코 일원",
+      "category": "로드",
+      "distance": "10km / 5km / 15km코스",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://marathon.busan.com"
+    },
+    {
+      "name": "2026 광명평화마라톤",
+      "date": "2026-10-25",
+      "location": "광명역 일원",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km / 가족런 2~5인 / 5km 커플런",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://gmrun.kr"
+    },
+    {
+      "name": "K-RUN 챌린지",
+      "date": "2026-10-25",
+      "location": "서울 뚝섬한강공원 수변광장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km / 마니아",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.irunman.kr"
+    },
+    {
+      "name": "제19회 청도반시 전국마라톤",
+      "date": "2026-10-25",
+      "location": "청도공설운동장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5.9km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://청도반시마라톤.kr"
+    },
+    {
+      "name": "2026 춘천마라톤",
+      "date": "2026-10-25",
+      "location": "춘천 공지천공원",
+      "category": "로드",
+      "distance": "풀 / 10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.chuncheonmarathon.com"
+    },
+    {
+      "name": "2026 청송사과트레일런",
+      "date": "2026-10-25",
+      "location": "청송군민운동장",
+      "category": "트레일",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://csmarathon.co.kr/csmarathon/"
     }
   ]
 }
