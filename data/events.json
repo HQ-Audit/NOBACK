@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T02:25:02.353Z",
+  "updatedAt": "2026-08-29T01:58:47.947Z",
   "events": [
     {
       "name": "백범김구선생 탄생150주년기념 손기정하천마라톤",
@@ -1251,6 +1251,15 @@
       "distance": "10km / 6.4km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://iksangiverun.or.kr"
+    },
+    {
+      "name": "2026 담양 트레일런 데이브레이크",
+      "date": "2026-10-24",
+      "location": "담양군 일원",
+      "category": "트레일",
+      "distance": "29km / 9km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://projectruntrip.com"
     },
     {
       "name": "2026 제3회 감성런",
