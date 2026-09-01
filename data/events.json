@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T23:06:00.371Z",
+  "updatedAt": "2026-09-01T21:35:02.662Z",
   "events": [
     {
       "name": "2026 이일선마라톤",
@@ -1287,6 +1287,51 @@
       "distance": "하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://csmarathon.co.kr/csmarathon/"
+    },
+    {
+      "name": "2026 JUST RUN10 포천",
+      "date": "2026-10-31",
+      "location": "포천시종합운동장",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://runten.co.kr"
+    },
+    {
+      "name": "제7회 중소기업 인 기살리기 마라톤 대회",
+      "date": "2026-10-31",
+      "location": "구일역(1호선) 하부 구로 안양천축구장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://kasmirun.kr/"
+    },
+    {
+      "name": "제21회 사천노을 마라톤대회",
+      "date": "2026-10-31",
+      "location": "사천 선진거북선공원",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://sunset.or.kr"
+    },
+    {
+      "name": "2026 태종대 BEAT ON 좀비레이스",
+      "date": "2026-10-31",
+      "location": "부산 영도구 태종대 자동차야외극장(Drive in영도)",
+      "category": "로드",
+      "distance": "4km 코스",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://taejongdaezombie.com"
+    },
+    {
+      "name": "2026 오티즘 레이스",
+      "date": "2026-10-31",
+      "location": "월드컵공원 평화의 광장",
+      "category": "로드",
+      "distance": "하프 / 10km / 4.2km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://autismrace.com"
     }
   ]
 }
