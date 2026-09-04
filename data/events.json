@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-09-03T21:33:07.308Z",
+  "updatedAt": "2026-09-04T21:13:39.527Z",
   "events": [
-    {
-      "name": "2026 이일선마라톤",
-      "date": "2026-09-05",
-      "location": "울릉도내 나리분지",
-      "category": "로드",
-      "distance": "10km / 4.4km걷기",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://forms.gle/6Y88RJqW6QCZkZoE7"
-    },
     {
       "name": "제12회 I LOVE 방송대 마라톤",
       "date": "2026-09-05",
@@ -522,6 +513,15 @@
       "distance": "하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.yonma.kr"
+    },
+    {
+      "name": "2026 이일선마라톤",
+      "date": "2026-10-03",
+      "location": "울릉도내 나리분지",
+      "category": "로드",
+      "distance": "10km / 4.4km걷기",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://forms.gle/6Y88RJqW6QCZkZoE7"
     },
     {
       "name": "2026 하반기 JUST RUN10 청주",
