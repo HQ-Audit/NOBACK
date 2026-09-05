@@ -1,60 +1,6 @@
 {
-  "updatedAt": "2026-09-04T21:13:39.527Z",
+  "updatedAt": "2026-09-05T20:55:20.269Z",
   "events": [
-    {
-      "name": "제12회 I LOVE 방송대 마라톤",
-      "date": "2026-09-05",
-      "location": "상암동 평화광장",
-      "category": "로드",
-      "distance": "10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://runbs.co.kr"
-    },
-    {
-      "name": "2026 하반기 JUST RUN10 세종",
-      "date": "2026-09-05",
-      "location": "세종마루공원 밑 금강변",
-      "category": "로드",
-      "distance": "10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://runten.co.kr"
-    },
-    {
-      "name": "제2회 2026 Vrun",
-      "date": "2026-09-05",
-      "location": "신정교하부육상트랙구장",
-      "category": "로드",
-      "distance": "10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://vrun.kr/index.asp"
-    },
-    {
-      "name": "제20회 순천만울트라마라톤대회",
-      "date": "2026-09-05",
-      "location": "순천동천천변공원",
-      "category": "트레일",
-      "distance": "100km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://www.scultra100.net"
-    },
-    {
-      "name": "제23회 철원DMZ국제평화마라톤",
-      "date": "2026-09-05",
-      "location": "철원 고석정",
-      "category": "로드",
-      "distance": "풀 / 하프 / 10km / 걷기",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://dmzrun.kr"
-    },
-    {
-      "name": "2026 다이나핏 태백 트레일",
-      "date": "2026-09-05",
-      "location": "태백 소원지 오토캠핑장",
-      "category": "트레일",
-      "distance": "50k / 32k-T / 32k-U / 24k / 15k",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://taebaektrail.com/"
-    },
     {
       "name": "2026 전마협회장배 청주마라톤",
       "date": "2026-09-06",
