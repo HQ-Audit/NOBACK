@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T21:01:43.654Z",
+  "updatedAt": "2026-09-07T21:54:30.005Z",
   "events": [
     {
       "name": "비포 선라이즈 슬로우 마라톤",
@@ -650,6 +650,15 @@
       "url": "http://www.xn--zl2btb922be3fb2a860c.com/"
     },
     {
+      "name": "진안트레일레이스",
+      "date": "2026-10-10",
+      "location": "국립진안고원산림치유원",
+      "category": "트레일",
+      "distance": "16km / 6km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://rocknrun.kr"
+    },
+    {
       "name": "제주풍차런",
       "date": "2026-10-10",
       "location": "한림수협다목적어업인종합지원센터",
@@ -713,6 +722,15 @@
       "url": "http://www.경포마라톤.com"
     },
     {
+      "name": "함께런 러닝 페스티벌",
+      "date": "2026-10-11",
+      "location": "미사경정공원 관리동 광장",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://runcop.com/event/hamkkerun"
+    },
+    {
       "name": "제22회 금천구청장배 건강달리기",
       "date": "2026-10-11",
       "location": "안양천 다목적광장",
@@ -738,15 +756,6 @@
       "distance": "10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.univrun.co.kr/"
-    },
-    {
-      "name": "진안고원 포레스티벌 Run & Heal",
-      "date": "2026-10-11",
-      "location": "국립진안고원산림치유원",
-      "category": "로드",
-      "distance": "16km / 6km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://rocknrun.kr"
     },
     {
       "name": "2026 천안 이봉주 마라톤",
@@ -837,6 +846,15 @@
       "distance": "풀 / 하프 / 10km / 5km / 31km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.koreatrail.net/home/main.php?link=event&einc=eindex&csno=20190605121808&opp=20260203121910#baseline"
+    },
+    {
+      "name": "2026 억새노을마라톤대회",
+      "date": "2026-10-17",
+      "location": "상무시민공원",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://xn--o80b37in2b02lesgqqcj12a.kr/index.asp"
     },
     {
       "name": "2026 의정부시 물길마라톤",
@@ -999,6 +1017,15 @@
       "distance": "하프 / 10km / 4km / 1km(휠체어)",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://mara1080.com/event/edaee6e1-0d92-4248-9927-06ed3b0abfd0"
+    },
+    {
+      "name": "불닭 버닝 트레일런",
+      "date": "2026-10-24",
+      "location": "대관령 삼양라운드힐",
+      "category": "트레일",
+      "distance": "5km / 23K / 13K",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://burningfesta.com"
     },
     {
       "name": "2026 서울 펫림픽 & 런 위드 고",
@@ -1206,6 +1233,15 @@
       "distance": "하프 / 10km / 4.2km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://autismrace.com"
+    },
+    {
+      "name": "2026 당진원런 마라톤",
+      "date": "2026-10-31",
+      "location": "석문방조제 인근",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.instagram.com/drt_2022"
     },
     {
       "name": "26서울동행마라톤대회",
