@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T21:54:30.005Z",
+  "updatedAt": "2026-09-08T21:32:50.904Z",
   "events": [
     {
       "name": "비포 선라이즈 슬로우 마라톤",
@@ -1305,6 +1305,96 @@
       "distance": "Full / 10K",
       "note": "마라톤온라인 대회 일정 보조 등록 대회입니다.",
       "url": "https://marathon.jtbc.com/"
+    },
+    {
+      "name": "런텐 13차 레이스 JUST RUN10 대전",
+      "date": "2026-11-07",
+      "location": "엑스포다리 인근",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://runten.co.kr"
+    },
+    {
+      "name": "SaveRace 2026",
+      "date": "2026-11-07",
+      "location": "여의도공원 문화의마당",
+      "category": "로드",
+      "distance": "10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.saverace.co.kr"
+    },
+    {
+      "name": "GVIE RUN 2026 구미",
+      "date": "2026-11-07",
+      "location": "구미 낙동강체육공원",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://giverun.kr"
+    },
+    {
+      "name": "남한산성트레일",
+      "date": "2026-11-07",
+      "location": "산성로타리",
+      "category": "트레일",
+      "distance": "13km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.mtrailrun.kr/"
+    },
+    {
+      "name": "2026 문경 레전드 트레일 백두대간",
+      "date": "2026-11-07",
+      "location": "문경새재도립공원 야외공연장",
+      "category": "트레일",
+      "distance": "50k / 34k / 21k",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://legendtrail.kr/"
+    },
+    {
+      "name": "제19회 진해마라톤",
+      "date": "2026-11-07",
+      "location": "진해공설운동장",
+      "category": "로드",
+      "distance": "5km / 11.11km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.jinhaemarathon.co.kr"
+    },
+    {
+      "name": "2026 해양수도 부산 런페스타",
+      "date": "2026-11-07",
+      "location": "부산 북항친수공원",
+      "category": "로드",
+      "distance": "10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://runfesta.co.kr"
+    },
+    {
+      "name": "제15회 부여 굿뜨래 마라톤 대회",
+      "date": "2026-11-07",
+      "location": "부여 구드래나루터 선착장",
+      "category": "로드",
+      "distance": "풀 / 하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://mara1080.com/event/ffc023fc-7a54-4610-bdd6-2bb9a1028122"
+    },
+    {
+      "name": "넥슨과 함께하는 2026 푸르메런",
+      "date": "2026-11-07",
+      "location": "상암 월드컵공원 평화광장",
+      "category": "로드",
+      "distance": "10km / 3km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://purmerun.com/"
+    },
+    {
+      "name": "2026 영천댐 마라톤",
+      "date": "2026-11-07",
+      "location": "영천댐 하류공원",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://runyc.kr"
     }
   ]
 }
