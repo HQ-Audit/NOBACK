@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T21:29:23.181Z",
+  "updatedAt": "2026-09-10T21:23:01.269Z",
   "events": [
     {
       "name": "비포 선라이즈 슬로우 마라톤",
@@ -1190,11 +1190,11 @@
       "url": "http://csmarathon.co.kr/csmarathon/"
     },
     {
-      "name": "2026 마블런",
+      "name": "마블런 2026",
       "date": "2026-10-31",
       "location": "인제스피디움",
       "category": "로드",
-      "distance": "10km / 5km / 2.5km",
+      "distance": "10km / 5km / 2.3km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://marvelrunkorea2026.com/"
     },
@@ -1316,6 +1316,15 @@
       "url": "https://marathon.jtbc.com/"
     },
     {
+      "name": "제40회 서봉기단축마라톤",
+      "date": "2026-11-06",
+      "location": "경북문경시민운동장(시내일원)",
+      "category": "로드",
+      "distance": "10km / 10km / 개인 / 단체전 / 지역학생대회",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://cafe.daum.net/seobongmarathon"
+    },
+    {
       "name": "런텐 13차 레이스 JUST RUN10 대전",
       "date": "2026-11-07",
       "location": "엑스포다리 인근",
@@ -1323,6 +1332,15 @@
       "distance": "10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://runten.co.kr"
+    },
+    {
+      "name": "2026 여수 일레븐브리지마라톤",
+      "date": "2026-11-07",
+      "location": "여수시 화양면 조발전망대 광장",
+      "category": "로드",
+      "distance": "하프 / 10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://marathontest1.s3-website.ap-northeast-2.amazonaws.com/"
     },
     {
       "name": "SaveRace 2026",
