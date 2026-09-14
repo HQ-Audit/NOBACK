@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T21:14:16.829Z",
+  "updatedAt": "2026-09-14T22:15:07.676Z",
   "events": [
     {
       "name": "2026 사찰런",
@@ -1151,7 +1151,7 @@
       "category": "로드",
       "distance": "하프 / 10km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://marathontest1.s3-website.ap-northeast-2.amazonaws.com/"
+      "url": "http://11bridge.com"
     },
     {
       "name": "SaveRace 2026",
