@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T22:15:07.676Z",
+  "updatedAt": "2026-09-15T21:54:26.653Z",
   "events": [
     {
       "name": "2026 사찰런",
@@ -432,6 +432,15 @@
       "distance": "하프 / 10km / 5km / 10km 단체런(5인)",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://amarunhs.com"
+    },
+    {
+      "name": "2026 연수 꿈이음길 러닝대회",
+      "date": "2026-10-10",
+      "location": "인천광역시 연수구 한마음공원",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://kyeonggiincheon.com"
     },
     {
       "name": "2026 하트런",
@@ -1262,6 +1271,15 @@
       "url": "http://kiccrace.com"
     },
     {
+      "name": "2026 안성맞춤 전국 마라톤",
+      "date": "2026-11-08",
+      "location": "안성맞춤랜드 일원",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://asrun.co.kr"
+    },
+    {
       "name": "제24회 전국 나주 금성산숲길마라톤",
       "date": "2026-11-08",
       "location": "나주시 금성산 일원",
@@ -1395,6 +1413,69 @@
       "distance": "산악28km / 17km / 임도숲길 18km / 10km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.거제앵산트레일레이스.com"
+    },
+    {
+      "name": "그 시절 스타들과 달리는 레트로 런 IN 증평",
+      "date": "2026-11-14",
+      "location": "증평군 보강천 시민체육공원",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://n-runplus.co.kr"
+    },
+    {
+      "name": "2026 통큰런",
+      "date": "2026-11-14",
+      "location": "상암 월드컵공원 평화광장",
+      "category": "로드",
+      "distance": "10km / 5km / 3km(가족런)",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://tongkeun-run.com"
+    },
+    {
+      "name": "2026 영종 하늘길 마라톤",
+      "date": "2026-11-14",
+      "location": "인천, 영종 씨사이드파크 일대",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.leaveit.co.kr/"
+    },
+    {
+      "name": "제2회 한강 브릿지 런",
+      "date": "2026-11-14",
+      "location": "구리한강시민공원 주차장",
+      "category": "로드",
+      "distance": "65km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.mtrailrun.kr/"
+    },
+    {
+      "name": "제2회 안양천 단풍길 마라톤",
+      "date": "2026-11-14",
+      "location": "신정교 하부 영롱이 억새구장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://maplerun.kr"
+    },
+    {
+      "name": "제26회 순천 남승룡마라톤대회",
+      "date": "2026-11-14",
+      "location": "전남광주 순천시 팔마로 333",
+      "category": "로드",
+      "distance": "풀 / 하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://sc-marathon.kr"
+    },
+    {
+      "name": "2026 포항마라톤챔피언십",
+      "date": "2026-11-14",
+      "location": "영일대해상누각",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://pohangmarathon.com/"
     }
   ]
 }
