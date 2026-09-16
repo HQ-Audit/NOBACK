@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T21:54:26.653Z",
+  "updatedAt": "2026-09-16T21:52:11.268Z",
   "events": [
     {
       "name": "2026 사찰런",
@@ -540,6 +540,15 @@
       "distance": "하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.경포마라톤.com"
+    },
+    {
+      "name": "83타워 업힐런",
+      "date": "2026-10-11",
+      "location": "대구 이월드 및 83타워",
+      "category": "로드",
+      "distance": "업힐코스 / 수직계단코스",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://leisure-web.yanolja.com/leisure/10365567"
     },
     {
       "name": "함께런 러닝 페스티벌",
@@ -1145,6 +1154,15 @@
       "url": "http://cafe.daum.net/seobongmarathon"
     },
     {
+      "name": "2026 EGG RUN",
+      "date": "2026-11-07",
+      "location": "국립세종수목원 축제마당",
+      "category": "로드",
+      "distance": "5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://eggrun2026.imweb.me"
+    },
+    {
       "name": "런텐 13차 레이스 JUST RUN10 대전",
       "date": "2026-11-07",
       "location": "엑스포다리 인근",
@@ -1476,6 +1494,168 @@
       "distance": "10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://pohangmarathon.com/"
+    },
+    {
+      "name": "2026 FILA RUN & ESPRESSO",
+      "date": "2026-11-15",
+      "location": "상암 월드컵공원 평화광장",
+      "category": "로드",
+      "distance": "10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.fila.co.kr/pages/fila-run-espresso-10k-seoul"
+    },
+    {
+      "name": "2026 손기정평화마라톤",
+      "date": "2026-11-15",
+      "location": "파주 임진각",
+      "category": "로드",
+      "distance": "풀 / 하프 / 10km / 6km코스",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://sonkeechungrun.com"
+    },
+    {
+      "name": "제12회 창원특례시장배 광려천마라톤",
+      "date": "2026-11-15",
+      "location": "창원시 광려천수변공원",
+      "category": "로드",
+      "distance": "하프 / 10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.cwaaf.kr/bbs/board.php?bo_table=rally&wr_id=3"
+    },
+    {
+      "name": "2026 나눔레이스 인 용인",
+      "date": "2026-11-15",
+      "location": "세리박위드용인",
+      "category": "로드",
+      "distance": "10km / 15km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://nanumrun.or.kr"
+    },
+    {
+      "name": "제28회 부산국제마라톤",
+      "date": "2026-11-15",
+      "location": "부산시 사하구 다대포해수욕장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://kjmarathon.com"
+    },
+    {
+      "name": "26회 창원통일마라톤",
+      "date": "2026-11-15",
+      "location": "창원종합운동장 보조경기장",
+      "category": "로드",
+      "distance": "5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.tongilmarathon.kr"
+    },
+    {
+      "name": "2026 제주감귤마라톤",
+      "date": "2026-11-15",
+      "location": "조천운동장",
+      "category": "로드",
+      "distance": "풀 / 하프 / 10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://marathon.ihalla.com"
+    },
+    {
+      "name": "제2회 세종특별자치시 전국 마라톤",
+      "date": "2026-11-15",
+      "location": "세종시민운동장",
+      "category": "로드",
+      "distance": "10km / 5km / 학생부5km 초등부 / 학생부5km중.고등부",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://sjrun.com"
+    },
+    {
+      "name": "2026 가민런 코리아",
+      "date": "2026-11-15",
+      "location": "고양종합운동장",
+      "category": "로드",
+      "distance": "하프 / 10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://runable.me/product/18977?comp=18962"
+    },
+    {
+      "name": "2026 MBN 서울마라톤",
+      "date": "2026-11-15",
+      "location": "광화문 광장, 잠실종합운동장",
+      "category": "로드",
+      "distance": "하프 / 10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://mbn-seoulmarathon.com"
+    },
+    {
+      "name": "제17회 행복트레일런 축제",
+      "date": "2026-11-15",
+      "location": "청계산수변공원",
+      "category": "트레일",
+      "distance": "20km / 10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://happytrailrun.com"
+    },
+    {
+      "name": "제4회 영남알프스 전국 하프마라톤",
+      "date": "2026-11-15",
+      "location": "울주군 영남알프스 일원",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://영남알프스마라톤.kr"
+    },
+    {
+      "name": "제24회 상주 곶감 마라톤 대회",
+      "date": "2026-11-15",
+      "location": "상주시민운동장",
+      "category": "로드",
+      "distance": "풀 / 하프 / 10km / 4.4km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.mara1080.com/event/c8dc2c22-a83a-4743-9e34-c884e9809dbb"
+    },
+    {
+      "name": "2026 9회 서울평화마라톤",
+      "date": "2026-11-15",
+      "location": "신정교하부육상트랙구장",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://seoultongilrun.org"
+    },
+    {
+      "name": "제24회 고창고인돌마라톤",
+      "date": "2026-11-15",
+      "location": "고창공설운동장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.gcrun.com"
+    },
+    {
+      "name": "제3회 무등산더블하트국제트레일런대회",
+      "date": "2026-11-15",
+      "location": "조선대학교",
+      "category": "트레일",
+      "distance": "16km / 36km / 51.8km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.cuk-sports.com/"
+    },
+    {
+      "name": "제16회 대전서구청장배 마라톤대회",
+      "date": "2026-11-15",
+      "location": "대전 유성구 엑스포 다리밑",
+      "category": "로드",
+      "distance": "10km / 5km / 가족코스 / 건강코스",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://JGMRUN.COM"
+    },
+    {
+      "name": "제24회 대모산,구룡산 트레일런",
+      "date": "2026-11-15",
+      "location": "수서역 7번출구광장",
+      "category": "트레일",
+      "distance": "10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20241014202801&csno=20200702232740#baseline"
     }
   ]
 }
