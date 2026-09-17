@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T21:52:11.268Z",
+  "updatedAt": "2026-09-17T21:54:40.139Z",
   "events": [
     {
       "name": "2026 사찰런",
@@ -18,15 +18,6 @@
       "distance": "하프 / 10km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.coupangplay.com/promotion/2026-Mudorun-Gyeongju/"
-    },
-    {
-      "name": "2026 여수낭도트레일",
-      "date": "2026-09-19",
-      "location": "여수 화정면낭도출장소앞 주차장",
-      "category": "트레일",
-      "distance": "13km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://www.mtrailrun.kr/"
     },
     {
       "name": "2026 청년의날 남동런",
@@ -846,6 +837,15 @@
       "distance": "하프 / 10km / 4km / 1km(휠체어)",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://mara1080.com/event/edaee6e1-0d92-4248-9927-06ed3b0abfd0"
+    },
+    {
+      "name": "TOUR 5K & Beach Ploggin망상",
+      "date": "2026-10-24",
+      "location": "동해시 망상해수욕장",
+      "category": "로드",
+      "distance": "5km / 2K 플로깅",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://mypb.info/competition/666"
     },
     {
       "name": "불닭 버닝 트레일런",
