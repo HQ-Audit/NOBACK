@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T21:54:40.139Z",
+  "updatedAt": "2026-09-18T21:24:30.233Z",
   "events": [
     {
       "name": "2026 사찰런",
@@ -1019,6 +1019,15 @@
       "url": "http://csmarathon.co.kr/csmarathon/"
     },
     {
+      "name": "2026 INCHEON NIGHT RACE",
+      "date": "2026-10-31",
+      "location": "인천 영정구 중산동 하늘구름광",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km / 8.15km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://icnr.kr"
+    },
+    {
       "name": "마블런 2026",
       "date": "2026-10-31",
       "location": "인제스피디움",
@@ -1080,6 +1089,15 @@
       "distance": "10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.instagram.com/drt_2022"
+    },
+    {
+      "name": "JUSTICE RUN SEOCHO 2026",
+      "date": "2026-11-01",
+      "location": "반포한강공원 달빛광장",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://justicerun.kr/"
     },
     {
       "name": "26서울동행마라톤대회",
