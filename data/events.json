@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T21:45:33.041Z",
+  "updatedAt": "2026-09-23T22:02:01.337Z",
   "events": [
     {
       "name": "2026 춘천연합마라톤",
@@ -652,7 +652,7 @@
     {
       "name": "2026 아시아 오픈 마라톤",
       "date": "2026-10-18",
-      "location": "광화문 광장(예정)",
+      "location": "광화문 광장",
       "category": "로드",
       "distance": "하프 / 10km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
@@ -935,7 +935,7 @@
       "category": "로드",
       "distance": "10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://www.instagram.com/drt_2022"
+      "url": "http://pf.kakao.com/_vQWxaX"
     },
     {
       "name": "JUSTICE RUN SEOCHO 2026",
@@ -1611,6 +1611,69 @@
       "distance": "하프 / 10km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://gofree.seoul.co.kr/"
+    },
+    {
+      "name": "2026 인천마라톤",
+      "date": "2026-11-22",
+      "location": "인천아시아드 주경기장, 운서역",
+      "category": "로드",
+      "distance": "풀 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://incheonmarathon.or.kr"
+    },
+    {
+      "name": "자이스 스마일 레이스",
+      "date": "2026-11-22",
+      "location": "여의도공원 문화의 마당",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://zeiss-smilerace.kr"
+    },
+    {
+      "name": "2026 서울 억새풀 마라톤대회",
+      "date": "2026-11-22",
+      "location": "(영등포) 영롱이 억새구장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://ssrun.kr/"
+    },
+    {
+      "name": "2026 평화의숲 마라톤",
+      "date": "2026-11-22",
+      "location": "상암 월드컵공원 평화광장",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://peace-run.kr/"
+    },
+    {
+      "name": "2026 김대중마라톤대회",
+      "date": "2026-11-22",
+      "location": "목포종합경기장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.djrun.kr/"
+    },
+    {
+      "name": "2026 무주반딧불평화마라톤",
+      "date": "2026-11-22",
+      "location": "무주 등나무운동장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://mujumarathon.com"
+    },
+    {
+      "name": "제6회 고용노동부장관배 직장인마라톤대회",
+      "date": "2026-11-22",
+      "location": "하남미사경정공원일원",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://krun.or.kr"
     }
   ]
 }
