@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T21:48:26.159Z",
+  "updatedAt": "2026-09-27T21:50:04.846Z",
   "events": [
     {
       "name": "2026 춘천연합마라톤",
@@ -353,6 +353,15 @@
       "url": "http://www.경포마라톤.com"
     },
     {
+      "name": "독립유공자후손 기부마라톤 2026대학생RUN",
+      "date": "2026-10-11",
+      "location": "서울시 구로구 안양천 축구장A",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.univrun.co.kr/index.php"
+    },
+    {
       "name": "83타워 업힐런",
       "date": "2026-10-11",
       "location": "대구 이월드 및 83타워",
@@ -495,6 +504,15 @@
       "distance": "5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://gnrace.kr/"
+    },
+    {
+      "name": "2026 원주 바람길숲 기부런",
+      "date": "2026-10-17",
+      "location": "강원도 원주 치악산 바람길숲",
+      "category": "로드",
+      "distance": "10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://cltoo.com/ko/product/379?category=CL_TO_EDITION"
     },
     {
       "name": "2026 억새노을마라톤대회",
@@ -1325,6 +1343,15 @@
       "url": "http://www.거제앵산트레일레이스.com"
     },
     {
+      "name": "서울 빵빵런 2026",
+      "date": "2026-11-14",
+      "location": "뚝섬한강공원 수변무대",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://seoul.bbangrun.com"
+    },
+    {
       "name": "그 시절 스타들과 달리는 레트로 런 IN 증평",
       "date": "2026-11-14",
       "location": "증평군 보강천 시민체육공원",
@@ -1557,6 +1584,15 @@
       "distance": "21km / 10km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://cafe.naver.com/bikewin/12"
+    },
+    {
+      "name": "2026 서울 라이프마라톤(가을)",
+      "date": "2026-11-21",
+      "location": "평화의공원 평화광장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://seoul.lifemarathon.co.kr"
     },
     {
       "name": "런텐 14차 레이스 JUST RUN10 대구",
