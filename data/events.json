@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T23:41:04.895Z",
+  "updatedAt": "2026-09-29T22:49:25.663Z",
   "events": [
     {
       "name": "2026 춘천연합마라톤",
@@ -1572,9 +1572,9 @@
       "date": "2026-11-21",
       "location": "구미시 경운대학교",
       "category": "트레일",
-      "distance": "21km / 10km",
+      "distance": "10km / 21km / 키즈레이스",
       "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://cafe.naver.com/bikewin/12"
+      "url": "http://naver.me/59lo1fB8"
     },
     {
       "name": "2026 서울 라이프마라톤(가을)",
@@ -1620,6 +1620,15 @@
       "distance": "풀 / 30km / 12km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://rocknrun.kr"
+    },
+    {
+      "name": "K-거상 트레일 러닝 대회",
+      "date": "2026-11-21",
+      "location": "가례초등학교(경남 의령)",
+      "category": "트레일",
+      "distance": "19km / 16km / 4km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.kpioneertrailrun.co.kr/"
     },
     {
       "name": "2026 세정 가을바람 유러닝페스타",
@@ -1701,6 +1710,33 @@
       "distance": "10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://krun.or.kr"
+    },
+    {
+      "name": "2026 평화런",
+      "date": "2026-11-28",
+      "location": "여의도공원 문화의마당",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.peacerun.kr"
+    },
+    {
+      "name": "2026 남원 춘향 전국 마라톤대회",
+      "date": "2026-11-28",
+      "location": "남원 종합스포츠타운 운동장",
+      "category": "로드",
+      "distance": "풀 / 하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://mara1080.com/event/c2cec79b-c38a-4832-bf4f-7ecb499cdcd5/guide/overview"
+    },
+    {
+      "name": "목욕런 2026",
+      "date": "2026-11-28",
+      "location": "월드컵공원 평화의 광장",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://mokyokrun.shop"
     }
   ]
 }
