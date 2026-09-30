@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T22:49:25.663Z",
+  "updatedAt": "2026-09-30T22:48:28.178Z",
   "events": [
     {
       "name": "2026 춘천연합마라톤",
@@ -1626,7 +1626,7 @@
       "date": "2026-11-21",
       "location": "가례초등학교(경남 의령)",
       "category": "트레일",
-      "distance": "19km / 16km / 4km",
+      "distance": "5km / 15km / 20km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.kpioneertrailrun.co.kr/"
     },
@@ -1737,6 +1737,87 @@
       "distance": "10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://mokyokrun.shop"
+    },
+    {
+      "name": "2026 서울사랑마라톤",
+      "date": "2026-11-29",
+      "location": "서울 성북구 석관동",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://seoulloverun.com"
+    },
+    {
+      "name": "제9회 광진구청장배 육상대회",
+      "date": "2026-11-29",
+      "location": "중곡동 중랑천 물놀이장 옆",
+      "category": "로드",
+      "distance": "10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://ksgaaf.co.kr/"
+    },
+    {
+      "name": "2026 원주 치악마라톤",
+      "date": "2026-11-29",
+      "location": "원주종합운동장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://wonju.raceplan.co.kr/"
+    },
+    {
+      "name": "가야왕도 김해 전국어울림 마라톤대회",
+      "date": "2026-11-29",
+      "location": "롯데워터파크 제3주차장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://gimhaemarathon.imweb.me/"
+    },
+    {
+      "name": "2026 대전보문산트레일",
+      "date": "2026-11-29",
+      "location": "오월드 주차장",
+      "category": "트레일",
+      "distance": "15km / 10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.mtrailrun.kr/"
+    },
+    {
+      "name": "제14회 안중근 평화 마라톤",
+      "date": "2026-11-29",
+      "location": "여의도공원 문화의마당",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://ajgrun.kr"
+    },
+    {
+      "name": "2026 새한미디어 마라톤",
+      "date": "2026-11-29",
+      "location": "평화의공원 평화광장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://sh-run.co.kr/"
+    },
+    {
+      "name": "2026 천안 희망나눔 마라톤",
+      "date": "2026-11-29",
+      "location": "천안 독립기념관",
+      "category": "로드",
+      "distance": "10km / 5km / 3.56KM 걷기",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://runwithus.co.kr"
+    },
+    {
+      "name": "2026 정읍공동체 프리마켓 마라톤",
+      "date": "2026-11-29",
+      "location": "정읍천변 어린이전용축구장",
+      "category": "로드",
+      "distance": "10km / 5km / 5km가족부(2인1조) / 10km 단체전(3인1조)",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.xn--ob0bs4k27c8xc9da633vynbkyur2ft5hckl.kr/"
     }
   ]
 }
