@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T00:34:37.501Z",
+  "updatedAt": "2026-10-06T22:52:29.597Z",
   "events": [
     {
       "name": "2026 한글런",
@@ -1602,6 +1602,42 @@
       "distance": "10km / 5km / 5km가족부(2인1조) / 10km 단체전(3인1조)",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.xn--ob0bs4k27c8xc9da633vynbkyur2ft5hckl.kr/"
+    },
+    {
+      "name": "제4회 가든파이브 라이프 레이스",
+      "date": "2026-12-05",
+      "location": "서울 가든파이브라이프 중앙광장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km / 마니아",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.irunman.kr"
+    },
+    {
+      "name": "전국마라톤협회 2026 골드런 레이스",
+      "date": "2026-12-05",
+      "location": "금산세계인삼엑스포광장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://mara1080.com/event/df4b4e7d-4fbc-4843-858c-f15c032e92cb"
+    },
+    {
+      "name": "2026 하남 미사 호수 에너지런",
+      "date": "2026-12-05",
+      "location": "하남미사경정공원",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://energyrun.kr"
+    },
+    {
+      "name": "제23회 한강시민마라톤",
+      "date": "2026-12-05",
+      "location": "여의도 물빛무대 앞 광장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.hangangmarathon.kr/"
     }
   ]
 }
