@@ -1,60 +1,6 @@
 {
-  "updatedAt": "2026-10-04T22:11:09.897Z",
+  "updatedAt": "2026-10-06T00:34:37.501Z",
   "events": [
-    {
-      "name": "제23회 강남국제평화마라톤",
-      "date": "2026-10-05",
-      "location": "봉은사로 삼성1동 주민센터 앞",
-      "category": "로드",
-      "distance": "풀 / 하프 / 10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://peacemarathon.co.kr"
-    },
-    {
-      "name": "제12회 시흥시 전국하프마라톤",
-      "date": "2026-10-05",
-      "location": "한국공학대학교 제2캠퍼스",
-      "category": "로드",
-      "distance": "하프 / 10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://shmarathon.kr"
-    },
-    {
-      "name": "2026 양주 천일홍 가을 페스타 마라톤",
-      "date": "2026-10-05",
-      "location": "양주시 나리농원",
-      "category": "로드",
-      "distance": "하프 / 10km / 5km / 걷기",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://yangjurun.kr"
-    },
-    {
-      "name": "런센스 2026",
-      "date": "2026-10-05",
-      "location": "상암동 평화의공원 평화광장",
-      "category": "로드",
-      "distance": "10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://www.runsense.co.kr"
-    },
-    {
-      "name": "2026 한경서울마라톤",
-      "date": "2026-10-05",
-      "location": "여의도 문화의공원 일원",
-      "category": "로드",
-      "distance": "하프 / 10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://www.hk-marathon.com/"
-    },
-    {
-      "name": "2026 서울오픈마라톤",
-      "date": "2026-10-05",
-      "location": "광화문광장(예정)",
-      "category": "로드",
-      "distance": "하프 / 10km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://seoulopen.or.kr"
-    },
     {
       "name": "2026 한글런",
       "date": "2026-10-09",
@@ -254,7 +200,7 @@
       "url": "http://bjlee.casports.or.kr"
     },
     {
-      "name": "제6회 영등포구청장배 육상대회",
+      "name": "제6회 영등포구청장배 육상대회 (마감)",
       "date": "2026-10-11",
       "location": "신정교하부육상트랙구장",
       "category": "로드",
