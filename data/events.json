@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T23:26:13.928Z",
+  "updatedAt": "2026-10-08T23:37:43.253Z",
   "events": [
     {
       "name": "2026 한글런",
@@ -1199,6 +1199,15 @@
       "url": "http://pohangmarathon.com/"
     },
     {
+      "name": "2026 연수구청장배 송도 WALK & RUN",
+      "date": "2026-11-15",
+      "location": "국립인천대학교 송도캠퍼스 정문",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km / WALK 5km / WALK 10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://walknrun.kr"
+    },
+    {
       "name": "2026 에코나우런",
       "date": "2026-11-15",
       "location": "뚝섬한강공원 수변무대 앞 광장",
@@ -1206,6 +1215,15 @@
       "distance": "5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://econow.campaignus.me/econow_run"
+    },
+    {
+      "name": "2026 청춘레이스",
+      "date": "2026-11-15",
+      "location": "성북구 중랑천 체육공원",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://youngrace.kr"
     },
     {
       "name": "2026 FILA RUN & ESPRESSO",
@@ -1608,7 +1626,7 @@
       "date": "2026-11-29",
       "location": "여의도공원 문화의마당",
       "category": "로드",
-      "distance": "10km / 5km",
+      "distance": "하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://ajgrun.kr"
     },
@@ -1658,7 +1676,7 @@
       "url": "http://mara1080.com/event/df4b4e7d-4fbc-4843-858c-f15c032e92cb"
     },
     {
-      "name": "2026 하남 미사 호수 에너지런",
+      "name": "2026 하남 미사 대회 취소",
       "date": "2026-12-05",
       "location": "하남미사경정공원",
       "category": "로드",
