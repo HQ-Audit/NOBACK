@@ -1,42 +1,6 @@
 {
-  "updatedAt": "2026-10-08T23:37:43.253Z",
+  "updatedAt": "2026-10-09T23:01:03.698Z",
   "events": [
-    {
-      "name": "2026 한글런",
-      "date": "2026-10-09",
-      "location": "세종중앙공원 도시축제마당",
-      "category": "로드",
-      "distance": "5.15km / 10.9km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://hangeulrun.com/"
-    },
-    {
-      "name": "WYD와 함께하는 생명사랑 마라톤/걷기 대회",
-      "date": "2026-10-09",
-      "location": "안성 미리내 성지",
-      "category": "로드",
-      "distance": "10km / 5km / 5km 걷기",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://cafe.naver.com/browna6seu"
-    },
-    {
-      "name": "2026 고흥우주항공배 마라톤",
-      "date": "2026-10-09",
-      "location": "고흥군 박지성공설운동장",
-      "category": "로드",
-      "distance": "하프 / 10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://mara1080.com/event/10fcc153-1bb7-403e-8f57-7571c1c324d5"
-    },
-    {
-      "name": "제26회 홍성마라톤",
-      "date": "2026-10-09",
-      "location": "홍주 종합경기장",
-      "category": "로드",
-      "distance": "하프 / 10km / 5km / 10km 단체런(5인)",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://amarunhs.com"
-    },
     {
       "name": "2026 연수 꿈이음길 러닝대회",
       "date": "2026-10-10",
@@ -1656,6 +1620,15 @@
       "distance": "10km / 5km / 5km가족부(2인1조) / 10km 단체전(3인1조)",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.xn--ob0bs4k27c8xc9da633vynbkyur2ft5hckl.kr/"
+    },
+    {
+      "name": "2026 허그런(HUG RUN)",
+      "date": "2026-12-05",
+      "location": "상암 월드컵공원 평화광장",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://hugrun.kr"
     },
     {
       "name": "제4회 가든파이브 라이프 레이스",
