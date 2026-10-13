@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:39:49.919Z",
+  "updatedAt": "2026-10-13T01:05:45.840Z",
   "events": [
     {
       "name": "2026 굿네이버스 레이스 광주",
@@ -940,7 +940,7 @@
     {
       "name": "2026 청춘레이스",
       "date": "2026-11-15",
-      "location": "성북구 중랑천 체육공원",
+      "location": "우이천 다목적광장",
       "category": "로드",
       "distance": "하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
@@ -978,7 +978,7 @@
       "date": "2026-11-15",
       "location": "세리박위드용인",
       "category": "로드",
-      "distance": "10km / 15km",
+      "distance": "10km / 5km / 15km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://nanumrun.or.kr"
     },
@@ -1404,15 +1404,6 @@
       "distance": "하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://mara1080.com/event/df4b4e7d-4fbc-4843-858c-f15c032e92cb"
-    },
-    {
-      "name": "2026 하남 미사 대회 취소",
-      "date": "2026-12-05",
-      "location": "하남미사경정공원",
-      "category": "로드",
-      "distance": "10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://energyrun.kr"
     },
     {
       "name": "제23회 한강시민마라톤",
