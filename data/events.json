@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:05:45.840Z",
+  "updatedAt": "2026-10-13T23:10:54.909Z",
   "events": [
     {
       "name": "2026 굿네이버스 레이스 광주",
@@ -1458,6 +1458,42 @@
       "distance": "10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.youthrun.co.kr"
+    },
+    {
+      "name": "2026 연합뉴스 하남 국제 트레일런 페스티벌",
+      "date": "2026-12-12",
+      "location": "미사경정공원 및 하남시 일대",
+      "category": "트레일",
+      "distance": "10km / 5km / 15km / 28km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://yhitf.co.kr"
+    },
+    {
+      "name": "2026 소년소녀 가장 돕기 기부런",
+      "date": "2026-12-12",
+      "location": "상암동 평화광장",
+      "category": "로드",
+      "distance": "10km / 5km / 걷기",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://gibukidsrun.kr"
+    },
+    {
+      "name": "제3회 긍정의힘 마라톤",
+      "date": "2026-12-12",
+      "location": "신정교 하부 영롱이 억새구장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.powerrun.kr/"
+    },
+    {
+      "name": "2026 ONE MORE RUN",
+      "date": "2026-12-12",
+      "location": "영종구 씨사이드파크 일원",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.omrun.co.kr"
     }
   ]
 }
