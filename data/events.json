@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T23:10:54.909Z",
+  "updatedAt": "2026-10-14T22:02:28.597Z",
   "events": [
     {
       "name": "2026 굿네이버스 레이스 광주",
@@ -677,6 +677,15 @@
       "url": "http://runyc.kr"
     },
     {
+      "name": "2026전국 체육회장배 안산 RUN 마라톤",
+      "date": "2026-11-08",
+      "location": "안산 호수공원(중앙무대)인근",
+      "category": "로드",
+      "distance": "10km / 5km / 3km(학생부) / 5인1조(10km)",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://aaaf.koreashout.com/bbs/board.php?bo_table=cp_list&wr_id=60"
+    },
+    {
       "name": "2026 청양군 칠갑마라톤",
       "date": "2026-11-08",
       "location": "청양군 청양목재문화자연사체험관",
@@ -1199,6 +1208,15 @@
       "url": "http://gofree.seoul.co.kr/"
     },
     {
+      "name": "제19회 대구광역시장기 생활체육 육상대회",
+      "date": "2026-11-22",
+      "location": "대구스타디움",
+      "category": "로드",
+      "distance": "10km / 100m / 200m",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.daegutf.co.kr/front/board/view.php?code=game&tab=%EB%8C%80%EA%B5%AC&mid=0003%2C0014&no=722"
+    },
+    {
       "name": "부산항일학생의거86주년기념 부산시민이어달리기",
       "date": "2026-11-22",
       "location": "부산시내 중앙로구덕운동장~초읍",
@@ -1424,6 +1442,15 @@
       "url": "http://love.myrunup.kr"
     },
     {
+      "name": "2026 화순고인돌마라톤",
+      "date": "2026-12-06",
+      "location": "화순공설운동장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://xn--299a84k68cg1cr8pi6h5qsd0i.kr/index.asp"
+    },
+    {
       "name": "제20회 양산전국하프마라톤",
       "date": "2026-12-06",
       "location": "양산종합운동장",
@@ -1494,6 +1521,33 @@
       "distance": "하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.omrun.co.kr"
+    },
+    {
+      "name": "제2회 일자산TRAL RUNNING",
+      "date": "2026-12-13",
+      "location": "일자산보훈병원앞",
+      "category": "로드",
+      "distance": "8km / 4km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://koreatrail.net"
+    },
+    {
+      "name": "제5회 밤섬 마라톤",
+      "date": "2026-12-13",
+      "location": "상암월드컵공원 평화광장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://bamseom.com/"
+    },
+    {
+      "name": "제36회 진주마라톤",
+      "date": "2026-12-13",
+      "location": "진주노을공원",
+      "category": "로드",
+      "distance": "풀 / 하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.jinma.co.kr"
     }
   ]
 }
