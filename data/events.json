@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T22:02:28.597Z",
+  "updatedAt": "2026-10-15T21:55:05.220Z",
   "events": [
     {
       "name": "2026 굿네이버스 레이스 광주",
@@ -288,15 +288,6 @@
       "distance": "29km / 9km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://projectruntrip.com"
-    },
-    {
-      "name": "서울 대모-구룡산트레일런",
-      "date": "2026-10-24",
-      "location": "수서역6번출구",
-      "category": "트레일",
-      "distance": "14.6km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://www.mtrailrun.kr/"
     },
     {
       "name": "2026 제3회 감성런",
@@ -1485,6 +1476,15 @@
       "distance": "10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.youthrun.co.kr"
+    },
+    {
+      "name": "대전보문산트레일런",
+      "date": "2026-12-06",
+      "location": "수서역6번출구",
+      "category": "트레일",
+      "distance": "15km / 10km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.mtrailrun.kr/"
     },
     {
       "name": "2026 연합뉴스 하남 국제 트레일런 페스티벌",
