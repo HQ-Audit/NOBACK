@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T21:14:31.937Z",
+  "updatedAt": "2026-10-19T22:47:44.342Z",
   "events": [
     {
       "name": "Freedom Walk & Run",
@@ -648,6 +648,15 @@
       "distance": "10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://k-marathon.or.kr/main.php"
+    },
+    {
+      "name": "83타워 업힐런 챌린지",
+      "date": "2026-11-08",
+      "location": "이월드",
+      "category": "로드",
+      "distance": "1.8Km+77층 계단",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://eworld83toweruphillrun.lovable.app/"
     },
     {
       "name": "제5회 거제시체육회장배 거제앵산트레일레이스",
