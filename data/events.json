@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T22:47:44.342Z",
+  "updatedAt": "2026-10-20T22:04:46.253Z",
   "events": [
     {
       "name": "Freedom Walk & Run",
@@ -1377,6 +1377,15 @@
       "distance": "풀 / 하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.jinma.co.kr"
+    },
+    {
+      "name": "제2회 청춘 릴레이 마라톤",
+      "date": "2026-12-19",
+      "location": "상암월드컵공원 평화의광장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://youngrun.kr"
     }
   ]
 }
