@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T22:04:46.253Z",
+  "updatedAt": "2026-10-21T22:04:34.337Z",
   "events": [
     {
       "name": "Freedom Walk & Run",
@@ -1352,6 +1352,15 @@
       "url": "http://www.omrun.co.kr"
     },
     {
+      "name": "2026 성남 헤리티지 런",
+      "date": "2026-12-12",
+      "location": "탄천종합운동장",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://charun.co.kr"
+    },
+    {
       "name": "제2회 일자산TRAL RUNNING",
       "date": "2026-12-13",
       "location": "일자산보훈병원앞",
@@ -1379,6 +1388,15 @@
       "url": "http://www.jinma.co.kr"
     },
     {
+      "name": "2026 시즌마감마라톤대회",
+      "date": "2026-12-13",
+      "location": "인천아사이드 경기장 북측 광장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://42195race.com/"
+    },
+    {
       "name": "제2회 청춘 릴레이 마라톤",
       "date": "2026-12-19",
       "location": "상암월드컵공원 평화의광장",
@@ -1386,6 +1404,15 @@
       "distance": "하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://youngrun.kr"
+    },
+    {
+      "name": "2026 슬로우런마라톤(a.k.a. 동계훈련)",
+      "date": "2026-12-20",
+      "location": "상암동 월드컵공원 평화의 광장",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://slowrun.kr"
     }
   ]
 }
