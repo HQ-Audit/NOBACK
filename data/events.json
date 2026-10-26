@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T21:24:41.137Z",
+  "updatedAt": "2026-10-26T23:00:47.527Z",
   "events": [
     {
       "name": "2026 INCHEON NIGHT RACE",
@@ -398,7 +398,7 @@
       "url": "http://xn--289a04w1ifu9bvwfi4b78e.com/resv/competition.php"
     },
     {
-      "name": "제20회 자원봉사 사랑 굿펀 마라톤",
+      "name": "제20회 자원봉사 사랑 굿펀 마라톤(취소)",
       "date": "2026-11-08",
       "location": "신정교하부육상트랙구장",
       "category": "로드",
@@ -767,6 +767,15 @@
       "url": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20241014202801&csno=20200702232740#baseline"
     },
     {
+      "name": "천안시장배 대한독립천안트레일런산악등반대회",
+      "date": "2026-11-21",
+      "location": "천안 독립기념관 태극기광장",
+      "category": "트레일",
+      "distance": "트레일런 14KM",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://cafe.naver.com/daehanindependence"
+    },
+    {
       "name": "2026 GETR구미 에코 트레일레이스",
       "date": "2026-11-21",
       "location": "구미시 경운대학교",
@@ -1037,6 +1046,15 @@
       "url": "http://www.xn--ob0bs4k27c8xc9da633vynbkyur2ft5hckl.kr/"
     },
     {
+      "name": "2026 모악트레일런",
+      "date": "2026-12-05",
+      "location": "대한민국술테마박물관",
+      "category": "트레일",
+      "distance": "23K / 10K",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://samsam3315.imweb.me/75"
+    },
+    {
       "name": "2026 허그런(HUG RUN)",
       "date": "2026-12-05",
       "location": "상암 월드컵공원 평화광장",
@@ -1118,7 +1136,7 @@
       "url": "http://www.busanmarathon.com"
     },
     {
-      "name": "2026 청춘런",
+      "name": "제6회 2026 청춘런",
       "date": "2026-12-06",
       "location": "상암동 평화의공원 평화광장",
       "category": "로드",
@@ -1134,6 +1152,15 @@
       "distance": "15km / 10km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.mtrailrun.kr/"
+    },
+    {
+      "name": "2026 평창 스노우런",
+      "date": "2026-12-12",
+      "location": "알펜시아 스키점프센터",
+      "category": "로드",
+      "distance": "15km / 7.5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://order.doortoout.com/12/8/78"
     },
     {
       "name": "2026 연합뉴스 하남 국제 트레일런 페스티벌",
