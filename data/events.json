@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T23:00:47.527Z",
+  "updatedAt": "2026-10-27T22:50:15.878Z",
   "events": [
     {
       "name": "2026 INCHEON NIGHT RACE",
@@ -823,9 +823,9 @@
     {
       "name": "K-거상 트레일 러닝 대회",
       "date": "2026-11-21",
-      "location": "가례초등학교(경남 의령)",
+      "location": "의령여자중학교(경남 의령)",
       "category": "트레일",
-      "distance": "5km / 15km / 20km",
+      "distance": "5km / 19km / 27km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.kpioneertrailrun.co.kr/"
     },
@@ -1260,6 +1260,15 @@
       "distance": "10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://slowrun.kr"
+    },
+    {
+      "name": "2026 코리아 시즌 레이스",
+      "date": "2026-12-26",
+      "location": "상암월드컵공원 평화광장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://k-run.kr"
     }
   ]
 }
