@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T22:56:25.091Z",
+  "updatedAt": "2026-10-29T23:05:07.998Z",
   "events": [
     {
       "name": "2026 INCHEON NIGHT RACE",
@@ -1269,6 +1269,15 @@
       "distance": "하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://k-run.kr"
+    },
+    {
+      "name": "대회취소",
+      "date": "2026-12-28",
+      "location": "대회취소",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://hgru"
     }
   ]
 }
