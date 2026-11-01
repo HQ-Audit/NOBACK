@@ -1,78 +1,6 @@
 {
-  "updatedAt": "2026-10-31T22:10:02.773Z",
+  "updatedAt": "2026-11-01T22:34:46.663Z",
   "events": [
-    {
-      "name": "JUSTICE RUN SEOCHO 2026",
-      "date": "2026-11-01",
-      "location": "반포한강공원 달빛광장",
-      "category": "로드",
-      "distance": "10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://justicerun.kr/"
-    },
-    {
-      "name": "26서울동행마라톤대회",
-      "date": "2026-11-01",
-      "location": "서울 목동종합운동장 주경기장",
-      "category": "로드",
-      "distance": "하프 / 10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://seoulrun.com"
-    },
-    {
-      "name": "2026 무안 해안 노을길 걷기 및 마라톤",
-      "date": "2026-11-01",
-      "location": "무안낙지공원",
-      "category": "로드",
-      "distance": "10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://mara1080.com/event/d596615e-cf32-4f20-bdbe-13b633f51c4e"
-    },
-    {
-      "name": "2026 김천전국마라톤대회",
-      "date": "2026-11-01",
-      "location": "김천종합스포츠타운",
-      "category": "로드",
-      "distance": "하프 / 10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://gcmarathon.co.kr"
-    },
-    {
-      "name": "제2회 대전 신채호 마라톤",
-      "date": "2026-11-01",
-      "location": "대전 뿌리공원 잔디광장",
-      "category": "로드",
-      "distance": "하프 / 10km / 5km / 패밀리런",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://www.djmarathon.co.kr"
-    },
-    {
-      "name": "제21회 울산인권마라톤",
-      "date": "2026-11-01",
-      "location": "태화강 둔치",
-      "category": "로드",
-      "distance": "하프 / 10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://www.humanrun.org"
-    },
-    {
-      "name": "2026 jtbc 마라톤",
-      "date": "2026-11-01",
-      "location": "상암동 평화의 광장",
-      "category": "로드",
-      "distance": "풀 / 10km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://marathon.jtbc.com/"
-    },
-    {
-      "name": "2026 JTBC 서울마라톤",
-      "date": "2026-11-01",
-      "location": "서울",
-      "category": "로드",
-      "distance": "Full / 10K",
-      "note": "마라톤온라인 대회 일정 보조 등록 대회입니다.",
-      "url": "https://marathon.jtbc.com/"
-    },
     {
       "name": "제40회 서봉기단축마라톤",
       "date": "2026-11-06",
@@ -1170,15 +1098,6 @@
       "distance": "하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://youngrun.kr"
-    },
-    {
-      "name": "2026 슬로우런마라톤(a.k.a. 동계훈련)",
-      "date": "2026-12-20",
-      "location": "상암동 월드컵공원 평화의 광장",
-      "category": "로드",
-      "distance": "10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://slowrun.kr"
     },
     {
       "name": "2026 코리아 시즌 레이스",
