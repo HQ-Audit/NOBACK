@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T23:51:14.572Z",
+  "updatedAt": "2026-11-05T00:08:19.482Z",
   "events": [
     {
       "name": "제40회 서봉기단축마라톤",
@@ -245,7 +245,7 @@
       "url": "http://xn--289a04w1ifu9bvwfi4b78e.com/resv/competition.php"
     },
     {
-      "name": "제20회 자원봉사 사랑 굿펀 마라톤(취소)",
+      "name": "제20회 자원봉사 사랑 굿펀 마라톤",
       "date": "2026-11-08",
       "location": "신정교하부육상트랙구장",
       "category": "로드",
@@ -776,6 +776,15 @@
       "url": "http://krun.or.kr"
     },
     {
+      "name": "목욕런 2026",
+      "date": "2026-11-28",
+      "location": "월드컵공원 평화의 광장",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://mokyokrun.shop"
+    },
+    {
       "name": "2026 착한서구 공부방 기부앤런",
       "date": "2026-11-28",
       "location": "영산강 자전거길(극락교~서창교",
@@ -783,6 +792,15 @@
       "distance": "10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://기부앤런.kr"
+    },
+    {
+      "name": "2026 SPOTV NIGHT RUN",
+      "date": "2026-11-28",
+      "location": "렛츠런파크 서울",
+      "category": "로드",
+      "distance": "7km코스 / 3.5km코스 / 패밀리런",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://spotvrun.co.kr"
     },
     {
       "name": "2026 평화런",
@@ -801,15 +819,6 @@
       "distance": "풀 / 하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://mara1080.com/event/c2cec79b-c38a-4832-bf4f-7ecb499cdcd5/guide/overview"
-    },
-    {
-      "name": "목욕런 2026",
-      "date": "2026-11-28",
-      "location": "월드컵공원 평화의 광장",
-      "category": "로드",
-      "distance": "10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://mokyokrun.shop"
     },
     {
       "name": "2026 서울사랑마라톤",
@@ -1028,15 +1037,6 @@
       "url": "http://gibukidsrun.kr"
     },
     {
-      "name": "제3회 긍정의힘 마라톤",
-      "date": "2026-12-12",
-      "location": "신정교 하부 영롱이 억새구장",
-      "category": "로드",
-      "distance": "하프 / 10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://www.powerrun.kr/"
-    },
-    {
       "name": "2026 ONE MORE RUN",
       "date": "2026-12-12",
       "location": "영종구 씨사이드파크 일원",
@@ -1062,6 +1062,15 @@
       "distance": "8km / 4km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://koreatrail.net"
+    },
+    {
+      "name": "2026이순신런페스타",
+      "date": "2026-12-13",
+      "location": "아산신정호국민관광지야외음악당",
+      "category": "로드",
+      "distance": "6.4km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://yssmarathon.com"
     },
     {
       "name": "제5회 밤섬 마라톤",
@@ -1091,24 +1100,6 @@
       "url": "http://42195race.com/"
     },
     {
-      "name": "제2회 청춘 릴레이 마라톤",
-      "date": "2026-12-19",
-      "location": "상암월드컵공원 평화의광장",
-      "category": "로드",
-      "distance": "하프 / 10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://youngrun.kr"
-    },
-    {
-      "name": "2026 코리아 시즌 레이스",
-      "date": "2026-12-26",
-      "location": "상암월드컵공원 평화광장",
-      "category": "로드",
-      "distance": "하프 / 10km / 5km",
-      "note": "마라톤온라인 대회 일정 기반입니다.",
-      "url": "http://k-run.kr"
-    },
-    {
       "name": "대회취소",
       "date": "2026-12-28",
       "location": "대회취소",
@@ -1116,6 +1107,24 @@
       "distance": "10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://hgru"
+    },
+    {
+      "name": "2027 제11회 새해일출런",
+      "date": "2027-01-01",
+      "location": "신정교하부육상트랙구장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://www.xn--zl2bt5ndwfh3g20k.kr/"
+    },
+    {
+      "name": "제19회 전국새해알몸마라톤",
+      "date": "2027-01-03",
+      "location": "대구 수성구 미술관로 88",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://r.dgrunner.co.kr"
     }
   ]
 }
