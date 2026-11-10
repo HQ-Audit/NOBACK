@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T22:38:45.968Z",
+  "updatedAt": "2026-11-10T01:52:33.901Z",
   "events": [
     {
       "name": "서울 빵빵런 2026",
@@ -693,6 +693,15 @@
       "distance": "10km / 5km / 걷기",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://gibukidsrun.kr"
+    },
+    {
+      "name": "화성레이스",
+      "date": "2026-12-12",
+      "location": "봉담2생태체육공원",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://hwaseongrace.com"
     },
     {
       "name": "2026 ONE MORE RUN",
