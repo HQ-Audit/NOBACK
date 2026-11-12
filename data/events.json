@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T23:53:52.793Z",
+  "updatedAt": "2026-11-12T01:17:27.609Z",
   "events": [
     {
       "name": "서울 빵빵런 2026",
@@ -810,6 +810,24 @@
       "distance": "10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://r.dgrunner.co.kr"
+    },
+    {
+      "name": "2027 전마협 새해 동계 마라톤",
+      "date": "2027-01-10",
+      "location": "금산 인삼 엑스포광장 주차장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://mara1080.com/event/2c881231-b5dd-4ae8-a587-c02d539566af"
+    },
+    {
+      "name": "제21회 여수해양마라톤",
+      "date": "2027-01-10",
+      "location": "여수 진남경기장",
+      "category": "로드",
+      "distance": "풀 / 하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://ysmarathon.co.kr/info/summary"
     }
   ]
 }
