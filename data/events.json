@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T01:28:48.835Z",
+  "updatedAt": "2026-11-19T00:57:30.415Z",
   "events": [
     {
       "name": "천안시장배 대한독립천안트레일런산악등반대회",
@@ -90,6 +90,15 @@
       "distance": "10km / 100m / 200m",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://www.daegutf.co.kr/front/board/view.php?code=game&tab=%EB%8C%80%EA%B5%AC&mid=0003%2C0014&no=722"
+    },
+    {
+      "name": "마르 백야드울트라6",
+      "date": "2026-11-22",
+      "location": "제주시 월각로 783",
+      "category": "로드",
+      "distance": "풀 / 하프 / 10km / 5km / 6.704km 루프",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://events.maar-adv.com/backyardultra"
     },
     {
       "name": "부산항일학생의거86주년기념 부산시민이어달리기",
@@ -238,7 +247,7 @@
     {
       "name": "가야왕도 김해 전국어울림 마라톤대회",
       "date": "2026-11-29",
-      "location": "롯데워터파크 제3주차장",
+      "location": "가동교차로 (경남 김해시 한림면 가동리)",
       "category": "로드",
       "distance": "하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
@@ -315,6 +324,15 @@
       "distance": "하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://mara1080.com/event/df4b4e7d-4fbc-4843-858c-f15c032e92cb"
+    },
+    {
+      "name": "2026 유관순 평화 마라톤",
+      "date": "2026-12-05",
+      "location": "천안 독립기념관 겨레의 큰 마",
+      "category": "로드",
+      "distance": "10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://ryugwansun.co.kr/"
     },
     {
       "name": "제23회 한강시민마라톤",
