@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T04:10:08.611Z",
+  "updatedAt": "2026-11-25T02:55:05.838Z",
   "events": [
     {
       "name": "목욕런 2026",
@@ -405,6 +405,15 @@
       "distance": "풀 / 하프 / 10km / 5km",
       "note": "마라톤온라인 대회 일정 기반입니다.",
       "url": "http://ysmarathon.co.kr/info/summary"
+    },
+    {
+      "name": "2027 북극곰 마라톤",
+      "date": "2027-01-23",
+      "location": "신정교 하부 영롱이 억새구장",
+      "category": "로드",
+      "distance": "하프 / 10km / 5km",
+      "note": "마라톤온라인 대회 일정 기반입니다.",
+      "url": "http://polarbearrun.kr"
     }
   ]
 }
